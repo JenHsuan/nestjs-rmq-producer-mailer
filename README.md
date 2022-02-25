@@ -1,0 +1,1 @@
+# nestjs-rmq-producer-mailer
